@@ -9,7 +9,7 @@ import torch
 import gdown
 
 # Define Google Drive paths for the models
-google_drive_path = '/content/drive/My Drive/NLP_models/'
+google_drive_path = '/drive/My Drive/NLP_models/'
 
 # Paths to the saved models
 bart_model_path = google_drive_path + "facebook-bart-large-cnn"
